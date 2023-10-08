@@ -182,4 +182,6 @@ Tooltip_FR = {
 	Tooltip_White_Frame_Glass_Door = "Le côté (droit) de la porte coulissante en verre de couleur blanche.",
 	Tooltip_Brown_Frame_Glass_Window = "Le côté fenêtre (gauche) de la porte coulissante en verre de couleur marron (ou rouge ?).",
 	Tooltip_Brown_Frame_Glass_Door = "Le côté (droit) de la porte coulissante en verre de couleur marron (ou rouge ?).",
+
+	Tooltip_Emergency_Lamp = "Éclairage de secours pour l'extérieur, avec une large portée d'éclairage.",
 }
